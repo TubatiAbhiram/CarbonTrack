@@ -1,0 +1,6 @@
+{
+  "name": "CarbonTrack - Carbon Footprint Calculator",
+  "description": "Scientifically grounded carbon footprint calculator and reduction planner. Estimate your greenhouse gas emissions across transportation, home energy, diet, and waste with verified EPA and DEFRA factors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
